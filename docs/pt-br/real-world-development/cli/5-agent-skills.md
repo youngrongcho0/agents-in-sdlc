@@ -1,8 +1,9 @@
 ---
 title: "Lição 5 - Usar skills de agente"
+description: "Explore a skill de verificações de qualidade existente, personalize o formato do relatório e use-a para validar a filtragem."
 authors:
   - geektrainer
-lastUpdated: 2026-06-30
+lastUpdated: 2026-09-29
 ---
 
 No desenvolvimento de aplicativos, é comum lidar com tarefas repetíveis, como gerar builds, executar testes ou criar pull requests. **Agent Skills** permitem orientar o Copilot — e outros agentes de IA — sobre como executar essas tarefas. Uma skill é uma pasta de instruções, scripts e recursos que o agente pode carregar sob demanda. O [Agent Skills][agent-skills-repo] é um padrão aberto usado por uma variedade de agentes, portanto a mesma skill pode funcionar no Copilot Chat em modo agente, no agente de nuvem do Copilot, no Copilot CLI e no aplicativo GitHub Copilot.
